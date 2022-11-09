@@ -19,7 +19,12 @@
       "jsx": true
     }
   },
-  "ignorePatterns": ["tailwind.config.js"],
+  "ignorePatterns": [
+    "tailwind.config.cjs",
+    "postcss.config.cjs",
+    "vite-env.d.ts",
+    "vite.config.ts"
+  ],
   "plugins": ["react"],
   "rules": {
     "react/react-in-jsx-scope": "off",
