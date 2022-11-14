@@ -10,6 +10,6 @@ describe("App", () => {
       screen.getByRole("heading", {
         level: 1,
       })
-    ).toHaveTextContent("Hello World");
+    ).toHaveTextContent("Pet Refugio");
   });
 });

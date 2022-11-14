@@ -1,0 +1,1465 @@
+{
+  "animals": [
+    {
+      "id": 58837291,
+      "organization_id": "WI570",
+      "url": "https://www.petfinder.com/rabbit/jemma-58837291/wi/marshfield/oscars-rabbit-rescue-inc-wi570/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Rabbit",
+      "species": "Rabbit",
+      "breeds": {
+        "primary": "Netherland Dwarf",
+        "secondary": "Dutch",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Agouti",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious"
+      ],
+      "name": "Jemma",
+      "description": "Jemma is a sweet, friendly, small little girl.  \n\nShe is spayed, microchipped, and vaccinated against RHDV-2.  \n\nShe is bonded to...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/1/?bust=1668297558&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/1/?bust=1668297558&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/1/?bust=1668297558&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/1/?bust=1668297558"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/3/?bust=1668297559&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/3/?bust=1668297559&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/3/?bust=1668297559&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/3/?bust=1668297559"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837291/2/?bust=1668297559"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:59:21+0000",
+      "published_at": "2022-11-12T23:59:21+0000",
+      "distance": null,
+      "contact": {
+        "email": "oscarsrabbitrescue@gmail.com",
+        "phone": "(715) 502-9811",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Marshfield",
+          "state": "WI",
+          "postcode": "54449",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837291"
+        },
+        "type": {
+          "href": "/v2/types/rabbit"
+        },
+        "organization": {
+          "href": "/v2/organizations/wi570"
+        }
+      }
+    },
+    {
+      "id": 58837292,
+      "organization_id": "CA216",
+      "url": "https://www.petfinder.com/cat/smokey-58837292/ca/riverside/mary-s-roberts-pet-adoption-center-ca216/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Smokey",
+      "description": null,
+      "organization_animal_id": "MSR-A-13360",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:59:19+0000",
+      "published_at": "2022-11-12T23:59:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt1@petsadoption.org",
+        "phone": "(951) 688-4340",
+        "address": {
+          "address1": "6165 Industrial Avenue",
+          "address2": null,
+          "city": "Riverside",
+          "state": "CA",
+          "postcode": "92504",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837292"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca216"
+        }
+      }
+    },
+    {
+      "id": 58837288,
+      "organization_id": "IL940",
+      "url": "https://www.petfinder.com/cat/peter-58837288/il/oak-lawn/uncle-ricks-pet-rescue-il940/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Buff / Tan / Fawn)",
+        "secondary": "Tabby (Gray / Blue / Silver)",
+        "tertiary": "Brown / Chocolate"
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Curious",
+        "Loves kisses"
+      ],
+      "name": "Peter",
+      "description": "Peter is a sweet little kitten who is now ready to find his forever home! He and his sister Casey...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/2/?bust=1668297545&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/2/?bust=1668297545&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/2/?bust=1668297545&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/2/?bust=1668297545"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837288/1/?bust=1668297544"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:59:07+0000",
+      "published_at": "2022-11-12T23:59:07+0000",
+      "distance": null,
+      "contact": {
+        "email": "unclerickspetrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Oak Lawn",
+          "state": "IL",
+          "postcode": "60453",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837288"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/il940"
+        }
+      }
+    },
+    {
+      "id": 58837285,
+      "organization_id": "NY947",
+      "url": "https://www.petfinder.com/cat/mustard-and-chives-are-amazing-kittens-58837285/ny/brooklyn/brooklyn-animal-action-ny947/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Russian Blue",
+        "secondary": "Domestic Short Hair",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray & White",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Mustard and Chives are Amazing Kittens",
+      "description": "These are simply delightful kittens! So friendly, loving and fun! They love attention, love petting and love to play! These...",
+      "organization_animal_id": "18727580-Claire",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:49+0000",
+      "published_at": "2022-11-12T23:58:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "brooklynanimalaction@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Brooklyn",
+          "state": "NY",
+          "postcode": "11215",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837285"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny947"
+        }
+      }
+    },
+    {
+      "id": 58837286,
+      "organization_id": "NY947",
+      "url": "https://www.petfinder.com/cat/leica-and-fuji-stunning-maine-coon-mixes-58837286/ny/brooklyn/brooklyn-animal-action-ny947/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Maine Coon",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Leica and Fuji: Stunning Maine Coon Mixes",
+      "description": "Leica is a stunning b/w Maine Coon Male while Fuji is the beautiful 6 mo old female. These are two...",
+      "organization_animal_id": "18727277-Claire",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:49+0000",
+      "published_at": "2022-11-12T23:58:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "brooklynanimalaction@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Brooklyn",
+          "state": "NY",
+          "postcode": "11215",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837286"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny947"
+        }
+      }
+    },
+    {
+      "id": 58837287,
+      "organization_id": "NY947",
+      "url": "https://www.petfinder.com/cat/russian-blue-mix-sky-kittens-58837287/ny/brooklyn/brooklyn-animal-action-ny947/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Russian Blue",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Russian Blue Mix Sky Kittens",
+      "description": "Truly the sweetest, most loving, playful and adorable kittens, these five siblings are pretty amazing! Watch the video to see...",
+      "organization_animal_id": "18727847-Claire",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:49+0000",
+      "published_at": "2022-11-12T23:58:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "brooklynanimalaction@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Brooklyn",
+          "state": "NY",
+          "postcode": "11215",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837287"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny947"
+        }
+      }
+    },
+    {
+      "id": 58837284,
+      "organization_id": "SC38",
+      "url": "https://www.petfinder.com/dog/honeycomb-58837284/sc/charleston/charleston-animal-society-sc38/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brindle",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Honeycomb",
+      "description": null,
+      "organization_animal_id": "59506A",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837284/1/?bust=1668297526"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:48+0000",
+      "published_at": "2022-11-12T23:58:48+0000",
+      "distance": null,
+      "contact": {
+        "email": "cgumienny@CharlestonAnimalSociety.org",
+        "phone": "(843) 747-4849",
+        "address": {
+          "address1": "2455 Remount Road",
+          "address2": null,
+          "city": "Charleston",
+          "state": "SC",
+          "postcode": "29405",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837284"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/sc38"
+        }
+      }
+    },
+    {
+      "id": 58837282,
+      "organization_id": "TN243",
+      "url": "https://www.petfinder.com/cat/dove-58837282/tn/dickson/humane-society-of-dickson-county-tn243/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Dove",
+      "description": "Dove is here by herself for now until we can match her up with a friend. She&amp;#39;s a beautiful dilute...",
+      "organization_animal_id": "ps_77004361",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:34+0000",
+      "published_at": "2022-11-12T23:58:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "gm@humanesocietyofdickson.com",
+        "phone": "(615) 446-7387",
+        "address": {
+          "address1": "311 Tennsco Drive",
+          "address2": null,
+          "city": "Dickson",
+          "state": "TN",
+          "postcode": "37055",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837282"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn243"
+        }
+      }
+    },
+    {
+      "id": 58837283,
+      "organization_id": "TN243",
+      "url": "https://www.petfinder.com/dog/trooper-58837283/tn/dickson/humane-society-of-dickson-county-tn243/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": false,
+        "cats": false
+      },
+      "tags": [],
+      "name": "Trooper",
+      "description": "Meet Trooper!\n\nThis stunning shepherd is trying to find his forever family. Trooper came to us in truly unfortunate circumstances,...",
+      "organization_animal_id": "ps_84138186",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:34+0000",
+      "published_at": "2022-11-12T23:58:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "gm@humanesocietyofdickson.com",
+        "phone": "(615) 446-7387",
+        "address": {
+          "address1": "311 Tennsco Drive",
+          "address2": null,
+          "city": "Dickson",
+          "state": "TN",
+          "postcode": "37055",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837283"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn243"
+        }
+      }
+    },
+    {
+      "id": 58837281,
+      "organization_id": "TN243",
+      "url": "https://www.petfinder.com/cat/kora-58837281/tn/dickson/humane-society-of-dickson-county-tn243/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Orange / Red)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": true,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [],
+      "name": "Kora",
+      "description": "Kora is estimated to be around 4 months old and is special needs. It has been diagnosed that she has...",
+      "organization_animal_id": "ps_79622817",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:33+0000",
+      "published_at": "2022-11-12T23:58:33+0000",
+      "distance": null,
+      "contact": {
+        "email": "gm@humanesocietyofdickson.com",
+        "phone": "(615) 446-7387",
+        "address": {
+          "address1": "311 Tennsco Drive",
+          "address2": null,
+          "city": "Dickson",
+          "state": "TN",
+          "postcode": "37055",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837281"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn243"
+        }
+      }
+    },
+    {
+      "id": 58837278,
+      "organization_id": "NM227",
+      "url": "https://www.petfinder.com/dog/pippy-poppins-58837278/nm/albuquerque/bridges-to-home-nm227/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": "Chihuahua",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pippy Poppins",
+      "description": "Hello! My name is Pippy and I am a female Dachshund/Chihuahua blend born September 10, 2022. I am a playful...",
+      "organization_animal_id": "ps_1561315-1438489",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:02+0000",
+      "published_at": "2022-11-12T23:58:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "BTHadoptions@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Albuquerque",
+          "state": "NM",
+          "postcode": "87154",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837278"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nm227"
+        }
+      }
+    },
+    {
+      "id": 58837279,
+      "organization_id": "NM227",
+      "url": "https://www.petfinder.com/dog/pippin-poppins-58837279/nm/albuquerque/bridges-to-home-nm227/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": "Chihuahua",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pippin Poppins",
+      "description": "Hello! My name is Pippin and I am a male Dachshund/Chihuahua blend born September 10, 2022. I am a playful...",
+      "organization_animal_id": "ps_1561317-1438489",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:58:02+0000",
+      "published_at": "2022-11-12T23:58:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "BTHadoptions@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Albuquerque",
+          "state": "NM",
+          "postcode": "87154",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837279"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nm227"
+        }
+      }
+    },
+    {
+      "id": 58837277,
+      "organization_id": "NY318",
+      "url": "https://www.petfinder.com/dog/koda-58837277/ny/west-seneca/erie-county-spca-ny318/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "KODA",
+      "description": null,
+      "organization_animal_id": "51464317",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:57+0000",
+      "published_at": "2022-11-12T23:57:57+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(716) 875-7360",
+        "address": {
+          "address1": "300 Harlem Road",
+          "address2": null,
+          "city": "West Seneca",
+          "state": "NY",
+          "postcode": "14224",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837277"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny318"
+        }
+      }
+    },
+    {
+      "id": 58837276,
+      "organization_id": "IL181",
+      "url": "https://www.petfinder.com/cat/cisco-58837276/il/springfield/sangamon-county-animal-control-center-il181/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Buff / Tan / Fawn)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": ["Friendly", "Affectionate", "Playful"],
+      "name": "Cisco",
+      "description": "The SCAC Adoption Application is now available in a fillable PDF and can be downloaded at www.meowmobile.org. The completed application...",
+      "organization_animal_id": "A183447",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:48+0000",
+      "published_at": "2022-11-12T23:57:48+0000",
+      "distance": null,
+      "contact": {
+        "email": "meowmobilesavescats217@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": "2100 Shale Rd",
+          "address2": null,
+          "city": "Springfield",
+          "state": "IL",
+          "postcode": "62703",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837276"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/il181"
+        }
+      }
+    },
+    {
+      "id": 58837274,
+      "organization_id": "NC330",
+      "url": "https://www.petfinder.com/cat/hobart-58837274/nc/winston-salem/forsyth-humane-society-nc330/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Hobart",
+      "description": "Hobart is a very special kitten! He&amp;#39;s incredibly cuddly and loves to play with kitty toys -- especially feathers dangling...",
+      "organization_animal_id": "FHS-A-30318",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:29+0000",
+      "published_at": "2022-11-12T23:57:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@forsythhumane.org",
+        "phone": "(336) 955-1750",
+        "address": {
+          "address1": "5570 Sturmer Park Circle",
+          "address2": null,
+          "city": "Winston-Salem",
+          "state": "NC",
+          "postcode": "27103",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837274"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/nc330"
+        }
+      }
+    },
+    {
+      "id": 58837275,
+      "organization_id": "NC330",
+      "url": "https://www.petfinder.com/dog/peanut-58837275/nc/winston-salem/forsyth-humane-society-nc330/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Peanut",
+      "description": null,
+      "organization_animal_id": "FHS-A-30840",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:29+0000",
+      "published_at": "2022-11-12T23:57:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@forsythhumane.org",
+        "phone": "(336) 955-1750",
+        "address": {
+          "address1": "5570 Sturmer Park Circle",
+          "address2": null,
+          "city": "Winston-Salem",
+          "state": "NC",
+          "postcode": "27103",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837275"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nc330"
+        }
+      }
+    },
+    {
+      "id": 58837272,
+      "organization_id": "CO06",
+      "url": "https://www.petfinder.com/cat/mr-man-58837272/co/lakewood/cat-care-society-co06/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Orange / Red",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Extra Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": ["Diabetic", "Needs Medication"],
+      "name": "Mr. Man",
+      "description": "Hey everybody, my name is Mr. Man! I am a sweet, gentle, diabetic neutered male who loves being petted. Cat...",
+      "organization_animal_id": "CCS-A-3598",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:19+0000",
+      "published_at": "2022-11-12T23:57:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "shelterinfo@catcaresociety.org",
+        "phone": "303-239-9680",
+        "address": {
+          "address1": "5787 W. 6th Ave",
+          "address2": null,
+          "city": "Lakewood",
+          "state": "CO",
+          "postcode": "80214",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837272"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/co06"
+        }
+      }
+    },
+    {
+      "id": 58837273,
+      "organization_id": "CO06",
+      "url": "https://www.petfinder.com/cat/cole-58837273/co/lakewood/cat-care-society-co06/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Long Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cole",
+      "description": "Completed: senior BW give convenia injection schedule dental- CV",
+      "organization_animal_id": "CCS-A-4264",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:19+0000",
+      "published_at": "2022-11-12T23:57:19+0000",
+      "distance": null,
+      "contact": {
+        "email": "shelterinfo@catcaresociety.org",
+        "phone": "303-239-9680",
+        "address": {
+          "address1": "5787 W. 6th Ave",
+          "address2": null,
+          "city": "Lakewood",
+          "state": "CO",
+          "postcode": "80214",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837273"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/co06"
+        }
+      }
+    },
+    {
+      "id": 58837270,
+      "organization_id": "TN344",
+      "url": "https://www.petfinder.com/dog/brisket-58837270/tn/madisonville/monroe-county-animal-shelter-tn344/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Labrador Retriever",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Brisket",
+      "description": null,
+      "organization_animal_id": "MCAS-A-21531",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:12+0000",
+      "published_at": "2022-11-12T23:57:12+0000",
+      "distance": null,
+      "contact": {
+        "email": "animal.shelter@monroetn.com",
+        "phone": "(423) 442-1015",
+        "address": {
+          "address1": "170 Kefauver Lane",
+          "address2": null,
+          "city": "Madisonville",
+          "state": "TN",
+          "postcode": "37354",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837270"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn344"
+        }
+      }
+    },
+    {
+      "id": 58837268,
+      "organization_id": "OR138",
+      "url": "https://www.petfinder.com/cat/telly-58837268/or/grants-pass/josephine-county-animal-shelter-or138/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Dilute Calico",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Dilute Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Independent",
+        "Athletic"
+      ],
+      "name": "Telly",
+      "description": "Telly is a sweet girl at ~5 months old looking for her fur-ever home. If you&#039;re looking for a kitten...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837268/1/?bust=1668297421"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:57:03+0000",
+      "published_at": "2022-11-12T23:57:03+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(541) 474-5458",
+        "address": {
+          "address1": "1420 Brookside Blvd.",
+          "address2": null,
+          "city": "Grants Pass",
+          "state": "OR",
+          "postcode": "97526",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837268"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/or138"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 282418,
+    "current_page": 2,
+    "total_pages": 14121,
+    "_links": {
+      "previous": {
+        "href": "/v2/animals?page=1"
+      },
+      "next": {
+        "href": "/v2/animals?page=3"
+      }
+    }
+  }
+}
