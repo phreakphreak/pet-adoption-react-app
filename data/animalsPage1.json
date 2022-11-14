@@ -1,0 +1,1528 @@
+{
+  "animals": [
+    {
+      "id": 58837239,
+      "organization_id": "CT140",
+      "url": "https://www.petfinder.com/dog/scratch-58837239/ct/west-cornwall/little-guild-of-saint-francis-ct140/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Plott Hound",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Scratch",
+      "description": "Scratch is a little on the timid side at first, but once you earn his trust, he will shower you...",
+      "organization_animal_id": "18608591",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:54:28+0000",
+      "published_at": "2022-11-12T23:54:28+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@littleguild.org",
+        "phone": "(860) 672-6346",
+        "address": {
+          "address1": "285 Sharon Goshen Turnpike",
+          "address2": null,
+          "city": "West Cornwall",
+          "state": "CT",
+          "postcode": "06796",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837239"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ct140"
+        }
+      }
+    },
+    {
+      "id": 58837238,
+      "organization_id": "IL181",
+      "url": "https://www.petfinder.com/cat/socks-58837238/il/springfield/sangamon-county-animal-control-center-il181/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": ["Friendly", "Affectionate", "Playful"],
+      "name": "Socks",
+      "description": "The SCAC Adoption Application is now available in a fillable PDF and can be downloaded at www.meowmobile.org. The completed application...",
+      "organization_animal_id": "A183048",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:54:17+0000",
+      "published_at": "2022-11-12T23:54:17+0000",
+      "distance": null,
+      "contact": {
+        "email": "meowmobilesavescats217@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": "2100 Shale Rd",
+          "address2": null,
+          "city": "Springfield",
+          "state": "IL",
+          "postcode": "62703",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837238"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/il181"
+        }
+      }
+    },
+    {
+      "id": 58837237,
+      "organization_id": "TX1531",
+      "url": "https://www.petfinder.com/dog/johnny-58837237/tx/the-woodlands/operation-pets-alive-tx1531/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Johnny",
+      "description": "Please contact Elenbaas for more information about this pet.",
+      "organization_animal_id": "18710223-D220701",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:59+0000",
+      "published_at": "2022-11-12T23:53:59+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@operationpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "The Woodlands",
+          "state": "TX",
+          "postcode": "77393",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837237"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1531"
+        }
+      }
+    },
+    {
+      "id": 58837236,
+      "organization_id": "TX1531",
+      "url": "https://www.petfinder.com/dog/june-58837236/tx/the-woodlands/operation-pets-alive-tx1531/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "June",
+      "description": "Please contact Elenbaas for more information about this pet.",
+      "organization_animal_id": "18710220-D220700",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:58+0000",
+      "published_at": "2022-11-12T23:53:58+0000",
+      "distance": null,
+      "contact": {
+        "email": "adopt@operationpetsalive.org",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "The Woodlands",
+          "state": "TX",
+          "postcode": "77393",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837236"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx1531"
+        }
+      }
+    },
+    {
+      "id": 58837235,
+      "organization_id": "CA2839",
+      "url": "https://www.petfinder.com/dog/grizzly-58837235/ca/studio-city/wagmorpets-ca2839/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": "Pug",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Grizzly",
+      "description": null,
+      "organization_animal_id": "ps_93437514",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:52+0000",
+      "published_at": "2022-11-12T23:53:52+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoption@wagmorpets.org",
+        "phone": "(818) 691-3466",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Studio City",
+          "state": "CA",
+          "postcode": "91604",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837235"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca2839"
+        }
+      }
+    },
+    {
+      "id": 58837230,
+      "organization_id": "SC417",
+      "url": "https://www.petfinder.com/dog/jamie-58837230/sc/lake-wylie/jesses-place-rescue-inc-sc417/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Feist",
+        "secondary": "Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Apricot / Beige",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": false,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Smart",
+        "Loyal",
+        "Playful",
+        "Athletic"
+      ],
+      "name": "Jamie",
+      "description": "Jamie is 7 month old, 23 lbs\nShe is full of typical puppy energy. Has been learning manners in her...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/1/?bust=1668297202&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/1/?bust=1668297202&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/1/?bust=1668297202&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/1/?bust=1668297202"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/3/?bust=1668297203&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/3/?bust=1668297203&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/3/?bust=1668297203&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/3/?bust=1668297203"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/4/?bust=1668297203&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/4/?bust=1668297203&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/4/?bust=1668297203&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/4/?bust=1668297203"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/5/?bust=1668297204&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/5/?bust=1668297204&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/5/?bust=1668297204&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/5/?bust=1668297204"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/6/?bust=1668297204&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/6/?bust=1668297204&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/6/?bust=1668297204&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/6/?bust=1668297204"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837230/2/?bust=1668297203"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:26+0000",
+      "published_at": "2022-11-12T23:53:26+0000",
+      "distance": null,
+      "contact": {
+        "email": "dcpphoto@aol.com",
+        "phone": "704-534-6000",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Lake Wylie",
+          "state": "SC",
+          "postcode": "29710",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837230"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/sc417"
+        }
+      }
+    },
+    {
+      "id": 58837227,
+      "organization_id": "IL728",
+      "url": "https://www.petfinder.com/dog/misty-58837227/il/joliet/all-herding-breed-dog-rescue-il728/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Australian Shepherd",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Merle (Blue)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Misty",
+      "description": "Misty is a 1 yr., fem., 40#, Aussie. She is all Aussie. Wiggle butt, happy attitude, pretty, fun. Loves people...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/1/?bust=1668297188&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/1/?bust=1668297188&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/1/?bust=1668297188&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/1/?bust=1668297188"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/2/?bust=1668297189&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/2/?bust=1668297189&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/2/?bust=1668297189&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/2/?bust=1668297189"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/3/?bust=1668297190&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/3/?bust=1668297190&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/3/?bust=1668297190&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/3/?bust=1668297190"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837227/4/?bust=1668297190"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:12+0000",
+      "published_at": "2022-11-12T23:53:12+0000",
+      "distance": null,
+      "contact": {
+        "email": "banditsluv@msn.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Joliet",
+          "state": "IL",
+          "postcode": "60432",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837227"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/il728"
+        }
+      }
+    },
+    {
+      "id": 58837226,
+      "organization_id": "TX273",
+      "url": "https://www.petfinder.com/dog/taffy-58837226/tx/seguin/guadalupe-county-humane-society-tx273/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Catahoula Leopard Dog",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Merle (Blue)",
+        "secondary": "Brindle",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Taffy",
+      "description": null,
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837226/1/?bust=1668297181"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:53:02+0000",
+      "published_at": "2022-11-12T23:53:02+0000",
+      "distance": null,
+      "contact": {
+        "email": "gchs2adopt@gmail.com",
+        "phone": "(830) 372-2055",
+        "address": {
+          "address1": "2484 State Hwy. 46 N.",
+          "address2": null,
+          "city": "Seguin",
+          "state": "TX",
+          "postcode": "78156",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837226"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tx273"
+        }
+      }
+    },
+    {
+      "id": 58837225,
+      "organization_id": "NV129",
+      "url": "https://www.petfinder.com/cat/astro-58837225/nv/las-vegas/foreclosed-upon-pets-inc-fupi-nv129/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Siamese",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Seal Point",
+        "secondary": "Buff / Tan / Fawn",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": ["Friendly", "Affectionate", "Gentle", "Brave"],
+      "name": "Astro",
+      "description": "My name is Astro.  I am a 2 year old dsh Siamese.  I wandered in to someone&#039;s home after being...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837225/1/?bust=1668297172"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:53+0000",
+      "published_at": "2022-11-12T23:52:53+0000",
+      "distance": null,
+      "contact": {
+        "email": "forecloseduponpets@hotmail.com",
+        "phone": "(702) 272-0010",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Las Vegas",
+          "state": "NV",
+          "postcode": "89101",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837225"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/nv129"
+        }
+      }
+    },
+    {
+      "id": 58837220,
+      "organization_id": "TN20",
+      "url": "https://www.petfinder.com/dog/bella-l-58837220/tn/clarksville/montgomery-county-animal-care-and-control-tn20/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Bella L",
+      "description": null,
+      "organization_animal_id": "D202231247",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:34+0000",
+      "published_at": "2022-11-12T23:52:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "AnimalControl@mcgtn.net",
+        "phone": "(931) 648-5750",
+        "address": {
+          "address1": "616 N. Spring St.",
+          "address2": null,
+          "city": "Clarksville",
+          "state": "TN",
+          "postcode": "37040",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837220"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn20"
+        }
+      }
+    },
+    {
+      "id": 58837221,
+      "organization_id": "TN20",
+      "url": "https://www.petfinder.com/dog/murphy-58837221/tn/clarksville/montgomery-county-animal-care-and-control-tn20/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Rottweiler",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Murphy",
+      "description": null,
+      "organization_animal_id": "D202229953",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:34+0000",
+      "published_at": "2022-11-12T23:52:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "AnimalControl@mcgtn.net",
+        "phone": "(931) 648-5750",
+        "address": {
+          "address1": "616 N. Spring St.",
+          "address2": null,
+          "city": "Clarksville",
+          "state": "TN",
+          "postcode": "37040",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837221"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn20"
+        }
+      }
+    },
+    {
+      "id": 58837222,
+      "organization_id": "TN20",
+      "url": "https://www.petfinder.com/dog/debbie-58837222/tn/clarksville/montgomery-county-animal-care-and-control-tn20/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Husky",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Debbie",
+      "description": null,
+      "organization_animal_id": "D202229253",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:34+0000",
+      "published_at": "2022-11-12T23:52:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "AnimalControl@mcgtn.net",
+        "phone": "(931) 648-5750",
+        "address": {
+          "address1": "616 N. Spring St.",
+          "address2": null,
+          "city": "Clarksville",
+          "state": "TN",
+          "postcode": "37040",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837222"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn20"
+        }
+      }
+    },
+    {
+      "id": 58837223,
+      "organization_id": "TN20",
+      "url": "https://www.petfinder.com/dog/selma-58837223/tn/clarksville/montgomery-county-animal-care-and-control-tn20/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Selma",
+      "description": null,
+      "organization_animal_id": "D202231201",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:34+0000",
+      "published_at": "2022-11-12T23:52:34+0000",
+      "distance": null,
+      "contact": {
+        "email": "AnimalControl@mcgtn.net",
+        "phone": "(931) 648-5750",
+        "address": {
+          "address1": "616 N. Spring St.",
+          "address2": null,
+          "city": "Clarksville",
+          "state": "TN",
+          "postcode": "37040",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837223"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/tn20"
+        }
+      }
+    },
+    {
+      "id": 58837219,
+      "organization_id": "IL181",
+      "url": "https://www.petfinder.com/cat/edith-58837219/il/springfield/sangamon-county-animal-control-center-il181/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Tabby",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": ["Friendly", "Affectionate", "Playful"],
+      "name": "Edith",
+      "description": "The SCAC Adoption Application is now available in a fillable PDF and can be downloaded at www.meowmobile.org. The completed application...",
+      "organization_animal_id": "A183050",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:33+0000",
+      "published_at": "2022-11-12T23:52:33+0000",
+      "distance": null,
+      "contact": {
+        "email": "meowmobilesavescats217@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": "2100 Shale Rd",
+          "address2": null,
+          "city": "Springfield",
+          "state": "IL",
+          "postcode": "62703",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837219"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/il181"
+        }
+      }
+    },
+    {
+      "id": 58837217,
+      "organization_id": "FL551",
+      "url": "https://www.petfinder.com/dog/crimson-58837217/fl/bradenton/underdog-rescue-of-florida-fl551/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pomeranian",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Golden",
+        "secondary": "Apricot / Beige",
+        "tertiary": "Red / Chestnut / Orange"
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Smart",
+        "Playful",
+        "Loves kisses"
+      ],
+      "name": "Crimson",
+      "description": "Crimson (we call her SUNNY), is an AMAZING girl! Not only is she a beautiful, blazing red/cream, 14#  Pomeranian, but...",
+      "organization_animal_id": "05148",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/1/?bust=1668297111&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/1/?bust=1668297111&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/1/?bust=1668297111&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/1/?bust=1668297111"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/2/?bust=1668297112&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/2/?bust=1668297112&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/2/?bust=1668297112&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/2/?bust=1668297112"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/4/?bust=1668297113&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/4/?bust=1668297113&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/4/?bust=1668297113&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/4/?bust=1668297113"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/5/?bust=1668297114&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/5/?bust=1668297114&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/5/?bust=1668297114&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/5/?bust=1668297114"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/6/?bust=1668297114&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/6/?bust=1668297114&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/6/?bust=1668297114&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/6/?bust=1668297114"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/58837217/3/?bust=1668297112"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:10+0000",
+      "published_at": "2022-11-12T23:52:10+0000",
+      "distance": null,
+      "contact": {
+        "email": "mail@underdogrescueofflorida.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Bradenton",
+          "state": "FL",
+          "postcode": "34208",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837217"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/fl551"
+        }
+      }
+    },
+    {
+      "id": 58837218,
+      "organization_id": "CO327",
+      "url": "https://www.petfinder.com/cat/ralphie-58837218/co/littleton/humane-society-of-the-south-platte-valley-co327/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Ralphie",
+      "description": "Hello there, my name is Ralphie! I am a handsome young man with a sweet demeanor. I am social, affectionate,...",
+      "organization_animal_id": "47897",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:52:01+0000",
+      "published_at": "2022-11-12T23:52:01+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@hsspv.org",
+        "phone": "303-703-2938",
+        "address": {
+          "address1": "2129 W. Chenango Ave., Unit A",
+          "address2": null,
+          "city": "Littleton",
+          "state": "CO",
+          "postcode": "80120",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837218"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/co327"
+        }
+      }
+    },
+    {
+      "id": 58837215,
+      "organization_id": "KS64",
+      "url": "https://www.petfinder.com/dog/q-tip-58837215/ks/wichita/kansas-humane-society-of-wichita-ks64/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Mixed Breed",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Q-Tip",
+      "description": null,
+      "organization_animal_id": "51479407",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:51:29+0000",
+      "published_at": "2022-11-12T23:51:29+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@kshumane.org",
+        "phone": "(316) 524-9196",
+        "address": {
+          "address1": "3313 N. Hillside",
+          "address2": null,
+          "city": "Wichita",
+          "state": "KS",
+          "postcode": "67219",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837215"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ks64"
+        }
+      }
+    },
+    {
+      "id": 58837214,
+      "organization_id": "GA676",
+      "url": "https://www.petfinder.com/cat/22-11-3359-cooke-58837214/ga/dallas/paulding-county-animal-control-ga676/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "22-11-3359 Cooke",
+      "description": "Primary Color: Tabby",
+      "organization_animal_id": "35497",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:51:05+0000",
+      "published_at": "2022-11-12T23:51:05+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(770) 445-1511",
+        "address": {
+          "address1": "779 Industiral Blvd North",
+          "address2": null,
+          "city": "Dallas",
+          "state": "GA",
+          "postcode": "30132",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837214"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ga676"
+        }
+      }
+    },
+    {
+      "id": 58837213,
+      "organization_id": "IN190",
+      "url": "https://www.petfinder.com/cat/ollie-58837213/in/evansville/vanderburgh-humane-society-in190/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Ollie",
+      "description": null,
+      "organization_animal_id": "VAN-A-40261",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:50:49+0000",
+      "published_at": "2022-11-12T23:50:49+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@vhslifesaver.org",
+        "phone": "(812) 426-2563",
+        "address": {
+          "address1": "400 Millner Industrial Drive",
+          "address2": null,
+          "city": "Evansville",
+          "state": "IN",
+          "postcode": "47710",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837213"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/in190"
+        }
+      }
+    },
+    {
+      "id": 58837212,
+      "organization_id": "IN190",
+      "url": "https://www.petfinder.com/cat/elroy-58837212/in/evansville/vanderburgh-humane-society-in190/?referrer_id=591ddacd-e7a2-4a98-aeb2-a3c438dbe85c",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Orange / Red",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": ["Litterbox Trained", "Lived with Dogs", "Lived with Kids"],
+      "name": "Elroy",
+      "description": null,
+      "organization_animal_id": "VAN-A-39279",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2022-11-12T23:50:48+0000",
+      "published_at": "2022-11-12T23:50:48+0000",
+      "distance": null,
+      "contact": {
+        "email": "adoptions@vhslifesaver.org",
+        "phone": "(812) 426-2563",
+        "address": {
+          "address1": "400 Millner Industrial Drive",
+          "address2": null,
+          "city": "Evansville",
+          "state": "IN",
+          "postcode": "47710",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/58837212"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/in190"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 282504,
+    "current_page": 1,
+    "total_pages": 14126,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?page=2"
+      }
+    }
+  }
+}
