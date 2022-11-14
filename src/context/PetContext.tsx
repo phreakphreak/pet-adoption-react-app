@@ -1,4 +1,4 @@
-import { Animal, Breed, TypeAnimal } from "@pet/animal";
+import { Animal, Breed, QueryParams, TypeAnimal } from "@pet/animal";
 import React, { createContext, useContext, useEffect, useReducer } from "react";
 import {
   fetchAnimals,
@@ -13,9 +13,21 @@ type Payload =
   | Breed[]
   | string
   | null
-  | Filter;
+  | Filter
+  | Param;
 
-type Type = "SET_PETS" | "LOADING" | "ERROR" | "SET_FILTER";
+type Param = {
+  param: string;
+  value: string;
+};
+
+type Type =
+  | "SET_PETS"
+  | "LOADING"
+  | "ERROR"
+  | "SET_FILTER"
+  | "SEARCH"
+  | "SET_PARAM";
 
 type Action = { type: Type; payload?: Payload };
 
@@ -32,6 +44,7 @@ interface State {
   isError: boolean;
   error: string | null;
   isSuccessPets: boolean;
+  params: QueryParams;
   isSuccessFilters: boolean;
   filters: {
     cat?: Filter;
@@ -91,6 +104,22 @@ function petReducer(state: State, action: Action): State {
       };
     }
 
+    case "SET_PARAM": {
+      const param = action.payload as Param;
+      return {
+        ...state,
+        params: {
+          [param.param]: param.value,
+        },
+      };
+    }
+
+    case "SEARCH": {
+      return {
+        ...state,
+        pets: action.payload as Animal[],
+      };
+    }
     default: {
       return state;
     }
@@ -104,6 +133,7 @@ const initialState: State = {
   error: null,
   isSuccessPets: false,
   isSuccessFilters: false,
+  params: {},
   filters: {
     cat: {},
     dog: {},
@@ -119,7 +149,7 @@ function PetProvider({ children }: PetProviderProps) {
     (async () => {
       try {
         dispatch({ type: "LOADING" });
-        const data = await fetchAnimals();
+        const data = await fetchAnimals({ limit: "30" });
         if (data) {
           dispatch({ type: "SET_PETS", payload: data });
         }
@@ -143,6 +173,22 @@ function PetProvider({ children }: PetProviderProps) {
       }
     })();
   }, []);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        dispatch({ type: "LOADING" });
+        const data = await fetchAnimals({ limit: "30", ...state.params });
+        if (data) {
+          dispatch({ type: "SEARCH", payload: data });
+        }
+      } catch (error) {
+        let message = "Error Get animals";
+        if (error instanceof Error) message = error.message;
+        dispatch({ type: "ERROR", payload: message });
+      }
+    })();
+  }, [state.params]);
 
   const value = { state, dispatch };
   return <PetContext.Provider value={value}>{children}</PetContext.Provider>;

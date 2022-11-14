@@ -142,6 +142,7 @@ declare module "@pet/animal" {
   export interface QueryParams {
     type?: string;
     breed?: string;
+    limit?: string;
     size?: string;
     gender?: string;
     age?: string;

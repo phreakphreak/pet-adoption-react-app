@@ -16,9 +16,9 @@ type FilterProps = {
 };
 
 function Filters() {
-  const [currentType, setCurrentType] = useState<FilterType>("dog");
+  const [currentType, setCurrentType] = useState<FilterType>("cat");
   const [filters, setFilters] = useState<FilterProps>({});
-  const { state } = usePet();
+  const { state, dispatch } = usePet();
 
   useEffect(() => {
     setFilters((prev) => ({
@@ -42,6 +42,7 @@ function Filters() {
 
   useEffect(() => {
     if (currentType !== "all") {
+      console.log("currentType", currentType);
       setFilters((prev) => ({
         ...prev,
         breeds: state.filters[currentType]?.breeds?.map(createOption),
@@ -54,9 +55,24 @@ function Filters() {
 
   return (
     <div className="flex flex-col gap-8">
-      {Object.entries(filters).map(([label, data]) => {
-        return <DropDown key={label} data={data} />;
+      {Object.entries(filters).map((item) => {
+        return (
+          <DropDown
+            label={item[0]}
+            key={item[0]}
+            setType={setCurrentType}
+            data={item[1]}
+          />
+        );
       })}
+
+      <button
+        onClick={() => dispatch({ type: "SEARCH" })}
+        className="w-full h-10 bg-rose-400 rounded-sm text-white"
+      >
+        {" "}
+        Search
+      </button>
     </div>
   );
 }
@@ -68,33 +84,56 @@ type ItemOption = {
 
 type DropDownProps = {
   data: ItemOption[];
+  setType: any;
+  label: string;
 };
 
-export function DropDown({ data }: DropDownProps) {
+export function DropDown({ data, setType, label }: DropDownProps) {
   const [selected, setSelected] = useState(data[0] ?? null);
+  const { dispatch } = usePet();
+  const [options, setOptions] = useState(data);
   const [query, setQuery] = useState("");
 
   const filteredData =
     query === ""
-      ? data
-      : data.filter((item) =>
+      ? options
+      : options.filter((item) =>
           item.name
             .toLowerCase()
             .replace(/\s+/g, "")
             .includes(query.toLowerCase().replace(/\s+/g, ""))
         );
 
+  const handleChange: any = (event: any) => {
+    setQuery(event.target.value);
+    dispatch({
+      type: "SET_PARAM",
+      payload: {
+        param: label,
+        value: event.target.value,
+      },
+    });
+    if (label === "type") {
+      console.log(label);
+      console.log(event.target.value);
+      setType(event.target.value);
+    }
+  };
+
   return (
     <>
       {data?.length > 0 && (
         <div className="w-72">
+          <label htmlFor="" className="font-semibold ">
+            {label}
+          </label>
           <Combobox value={selected} onChange={setSelected}>
             <div className="mt-1">
               <div className="w-full flex cursor-default overflow-hidden rounded-lg bg-white text-left shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 focus-visible:ring-offset-2 focus-visible:ring-offset-teal-300 sm:text-sm">
                 <Combobox.Input
                   className="w-full outline-none border-none py-2 pl-3 pr-10 text-sm leading-5 text-gray-900 focus:ring-0"
                   displayValue={(item: ItemOption) => item.name}
-                  onChange={(event) => setQuery(event.target.value)}
+                  onChange={handleChange}
                 />
                 <Combobox.Button className="inset-y-0 right-0 flex items-center pr-2">
                   <ChevronUpDownIcon

@@ -32,7 +32,10 @@ function NavHeader({ className }: NavHeaderProps) {
 
   return (
     <nav className={className}>
-      <div>LOGO</div>
+      <div className="font-bold uppercase text-xl">
+        <span className="text-[#E08997]">Pet </span>
+        Refugio
+      </div>
       <ul className="flex">
         {routes.map((item) => {
           return (

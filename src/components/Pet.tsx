@@ -1,4 +1,5 @@
 import { Animal } from "@pet/animal";
+import { Link } from "react-router-dom";
 
 interface PetProps {
   pet: Animal;
@@ -7,9 +8,9 @@ interface PetProps {
 function Pet({ pet }: PetProps) {
   return (
     <>
-      <a
-        href="#"
-        className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+      <Link
+        to={`/pets/${pet.id}`}
+        className="flex flex-col items-center  bg-white rounded-lg border shadow-md md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
       >
         {pet.photos.length > 0 && (
           <img
@@ -23,15 +24,16 @@ function Pet({ pet }: PetProps) {
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
             {pet.name}
           </h5>
-          <p>{pet.age}</p>
+          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            {pet.age}
+          </p>
           <p>{pet.type}</p>
           <p>{pet.breeds.primary}</p>
           <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-            Here are the biggest enterprise technology acquisitions of 2021 so
-            far, in reverse chronological order.
+            {pet.description}
           </p>
         </div>
-      </a>
+      </Link>
     </>
   );
 }
